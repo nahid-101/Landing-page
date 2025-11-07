@@ -5,10 +5,12 @@ In this project, I was given a design to recreate using HTML and CSS. The goal i
 
 ## Skills Demonstrated
 
-* Recreating a webpage layout from a given design
+* HTML structure with semantic tags and content organization
 
-* Using Flexbox to organize and align page sections
+* CSS styling, including colors, typography, and buttons
 
-* Strengthening my understanding of layout and structure
+* Flexbox for layout and alignment of sections and images
 
-* Applying HTML and CSS concepts learned in the Foundations course
+* Responsive design techniques using padding and flexible containers
+
+* Integrating and styling images with captions
